@@ -14,11 +14,11 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
+title: 奉伟的博客
+name: 一个95后，不抽烟喝酒，没事天天发愁的程序员小哥
+description: Always believe that something wonderful is about to happen.
 
-github: https://github.com/showzeng/Minimalism
+github: https://github.com/LiuFwei
 rss: true
 
 plugins:
